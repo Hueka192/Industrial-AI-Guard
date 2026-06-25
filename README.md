@@ -113,6 +113,4 @@ Sensors and components are configured dynamically via the admin panel and stored
 | snap7 | Siemens S7 PLC communication (optional) |
 | sqlite3 | Local data storage (stdlib) |
 
-## License
 
-MIT
